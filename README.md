@@ -52,7 +52,7 @@ This project is a responsive Ethereum Block Explorer built using React.js, Vite,
 ## BlockList.jsx:
 - `BlockList.jsx` displays the latest 18 blocks as clickable `buttons`. Each button shows the block number, and clicking a block will load its details in `BlockDetails`.
   
-## BlockDetails:
+## BlockDetails.jsx:
 - `BlockDetails.jsx` displays details about the selected block, including its `timestamp`, `miner`, and `transactions`. Each transaction hash is displayed as a `button`, which when clicked, shows transaction details in `TransactionDetails`.
   
 ## TransactionDetails.jsx:
