@@ -65,4 +65,4 @@ This project is a responsive Ethereum Block Explorer built using React.js, Vite,
 - `Alchemy API`: Used to fetch data from the Ethereum blockchain.
 
 ## License
-- This project is licensed under the MIT License - see the LICENSE
+- This project is licensed under the MIT License - see the LICENSE file for details.
