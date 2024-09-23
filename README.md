@@ -34,7 +34,7 @@ This project is a responsive Ethereum Block Explorer built using React.js, Vite,
     npm install
 
 4. Setting Alchemy API key:
-    at `App.jsx Ln: 17` replace `yourAlchemyApiKey` with your Alchemy Api Key
+    at `App.jsx Ln: 17` replace `yourAlchemyApiKey` with your Alchemy Api Key, [get yours](https://dashboard.alchemy.com/)
 
 5. Start the development server:
     ```bash
@@ -59,10 +59,10 @@ This project is a responsive Ethereum Block Explorer built using React.js, Vite,
 - `TransactionDetails.jsx` shows detailed information about the selected transaction, such as the `block number`, `sender`, `receiver`, `gas used`, and `status` of the transaction (`success` or `failure`).
 
 ## Technologies Used
-- `React.js`: JavaScript library for building user interfaces.
-- `Vite`: Next-generation frontend tool for fast and optimized builds.
-- `ethers.js`: A library for interacting with the Ethereum blockchain.
-- `Alchemy API`: Used to fetch data from the Ethereum blockchain.
+- [React.js](https://react.dev/learn): JavaScript library for building user interfaces.
+- [Vite](https://vitejs.dev/): Next-generation frontend tool for fast and optimized builds.
+- [Ethers.jsx](https://docs.ethers.org/v5/): A library for interacting with the Ethereum blockchain.
+- [Alchemy API](https://dashboard.alchemy.com/): Used to fetch data from the Ethereum blockchain.
 
 ## License
-- This project is licensed under the MIT License - see the LICENSE file for details at https://github.com/blockchainDevAmitesh/eth-block-explorer/blob/main/LICENSE
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/blockchainDevAmitesh/eth-block-explorer/blob/main/LICENSE)
